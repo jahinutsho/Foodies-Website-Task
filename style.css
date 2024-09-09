@@ -365,7 +365,7 @@
     top: 0;
     width: 180px;
     height: 180px;
-    background: url(/Assets/hero-dots.png) no-repeat center / contain;
+    background: url(Assets/hero-dots.png) no-repeat center / contain;
     z-index: -1;
   }
   
@@ -389,7 +389,7 @@
     transform: translateY(-50%);
     width: 26px;
     height: 26px;
-    background: url(/Assets/icon-check.svg) no-repeat center / contain;
+    background: url(Assets/icon-check.svg) no-repeat center / contain;
   }
   /* Stars Section */
   .stars {
